@@ -1,0 +1,6 @@
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\TEMP.UNEALUM.001\source\repos\Biblioteca1\obj\Debug\Biblioteca1.pdb

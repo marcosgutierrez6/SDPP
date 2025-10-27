@@ -1,0 +1,13 @@
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Cliente.exe
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Cliente.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Server.exe
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Server.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Server.exe.config
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\obj\Debug\Cliente.exe
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\obj\Debug\Cliente.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Biblioteca1.dll
+C:\Users\TEMP.UNEALUM.001\source\repos\Cliente\bin\Debug\Biblioteca1.pdb

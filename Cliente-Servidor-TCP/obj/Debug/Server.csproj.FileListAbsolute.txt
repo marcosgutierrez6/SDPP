@@ -1,0 +1,10 @@
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\bin\Debug\Server.exe.config
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\bin\Debug\Server.exe
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\bin\Debug\Server.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\obj\Debug\Server.exe
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\obj\Debug\Server.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\bin\Debug\Biblioteca1.dll
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\bin\Debug\Biblioteca1.pdb
+C:\Users\TEMP.UNEALUM.001\source\repos\Server\obj\Debug\Server.csproj.CopyComplete
