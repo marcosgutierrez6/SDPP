@@ -55,7 +55,7 @@
       <Project>{44d62815-2468-4410-ad18-1f78ea842faa}</Project>
       <Name>Biblioteca1</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Cliente-Servidor-TCP\Server.csproj">
+    <ProjectReference Include="..\Server.csproj">
       <Project>{b777c1e1-df6c-4260-bb4c-d5dd9b5d14f8}</Project>
       <Name>Server</Name>
     </ProjectReference>

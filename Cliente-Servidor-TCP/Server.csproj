@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Biblioteca1\Biblioteca1.csproj">
+    <ProjectReference Include="Biblioteca1\Biblioteca1.csproj">
       <Project>{44d62815-2468-4410-ad18-1f78ea842faa}</Project>
       <Name>Biblioteca1</Name>
     </ProjectReference>
