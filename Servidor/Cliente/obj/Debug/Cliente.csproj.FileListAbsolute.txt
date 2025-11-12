@@ -1,0 +1,14 @@
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Cliente.exe
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Cliente.pdb
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Servidor1.dll
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Servidor1.pdb
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\bin\Debug\Servidor1.dll.config
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.exe
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Cliente\obj\Debug\Cliente.pdb

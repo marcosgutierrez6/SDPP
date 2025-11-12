@@ -1,0 +1,7 @@
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\bin\Servidor1.dll.config
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\bin\Servidor1.dll
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\bin\Servidor1.pdb
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\obj\Debug\Servidor1.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\obj\Debug\Servidor1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\obj\Debug\Servidor1.dll
+C:\Users\TEMP.UNEALUM.008\source\repos\Servidor\Servidor1\obj\Debug\Servidor1.pdb
