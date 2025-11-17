@@ -1,0 +1,22 @@
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\API Rest Form.exe.config
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\API Rest Form.exe
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\API Rest Form.pdb
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Memory.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Text.Json.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Buffers.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.ValueTuple.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.exe.config
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API_Rest_Form.Form1.resources
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API_Rest_Form.Properties.Resources.resources
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.csproj.GenerateResource.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.csproj.CopyComplete
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.exe
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest Form\obj\Debug\API Rest Form.pdb
