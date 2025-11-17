@@ -1,0 +1,19 @@
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\API Rest.exe.config
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\API Rest.exe
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\API Rest.pdb
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Memory.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Text.Json.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Buffers.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.ValueTuple.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.csproj.AssemblyReference.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.exe.config
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.csproj.CopyComplete
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.exe
+C:\Users\TEMP.UNEALUM.010\source\repos\API Rest\obj\Debug\API Rest.pdb
